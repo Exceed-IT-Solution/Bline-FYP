@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blind</string>
+
+    <string name="btn_home_price">Product</string>
+    <string name="btn_productInfo">Product Info</string>
+    <string name="btn_barcode">Scan BarCode</string>
+    <string name="btn_currency">Read Currency</string>
+    <string name="btn_currency_reader">Read Currency</string>
+    <string name="btn_count">Count Currency</string>
+    <string name="btn_clear_currency">Clear Currency</string>
+</resources>
